@@ -33,7 +33,10 @@ Feel free to connect with me or explore my work below!
 ## 🏆 Achievements:
 
 - **Hackathon Winner**: Secured **1st Runner-up**.
-  - Project: [Summer Camp Web Scraping](https://github.com/amardeep-soni/hackathon).
+  - Project: [Summer Camp Web Scraping](https://github.com/amardeep-soni/hackathon)
+    
+- **Hackathon Winner**: Secured **Best Education and AI App**.
+  - Project: [ExamEase](https://github.com/amardeep-soni/ExamEase)
 
 ## 🎓 Education:
 
